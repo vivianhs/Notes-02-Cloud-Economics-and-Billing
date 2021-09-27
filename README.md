@@ -22,6 +22,28 @@ Forrester Research
 
 ### 2.2 Business Drivers
 
+### 2.3 Concepts and Terminology
+
+### 2.4 Goals and Benefits
+
+### 2.5 Risks and Challenges
+
+### 2.6 From Google’s Perspective
+
+### 2.7 From Amazon’s Perspective
+
+### 2.8 From Dilbert’s Perspective
+
+### 2.10 Infrastructure as a Service (IaaS)
+
+### 2.11 Platform as a Service (PaaS)
+
+### 2.12 Software as a Service (SaaS)
+
+### 2.14 Cloud Computing Deployment Models
+
+
+ 
 
 
 
