@@ -54,6 +54,40 @@ changing business needs and priorities may require IT resources to be more avail
 
 ### 2.3 Concepts and Terminology
 
+#### Cloud
+It refers to a distinct IT environment that is designed for the purpose of remotely provisioning scalable and measured IT resources.  The symbol of a cloud was commonly used to represent the Internet in a variety of specifications and mainstream documentation of Web-based architectures. This same symbol is now used to specifically represent the boundary of a cloud environment.
+
+#### IT Resource
+An IT resource is a physical or virtual IT-related artifact that can be either software based, such as a virtual server or a custom software program, or hardware-based, such as a physical server or a network device.
+Cloud symbols can be used to define a boundary for a cloud-based environment that hosts and provisions a set of IT resources. 
+
+#### On-Premise
+This term is used to qualify an IT resource as an alternative to "cloud-based." An IT resource that is on-premise cannot be cloud-based, and vice-versa.
+Key-Point
+An on-premise IT resource can access and interact with a cloud-based IT resource.
+An on-premise IT resource can be moved to a cloud, thereby changing it to a cloud-based IT resource.
+Redundant deployments of an IT resource can exist in both on-premise and cloud based environments.
+
+
+#### Scaling
+Represents the ability of the IT resource to handle increased or decreased usage demands.
+	Types of scaling:
+
+##### Horizontal Scaling
+Scaling out and Scaling in 
+The horizontal allocation of resources is referred to as scaling out and the horizontal releasing of resources is referred to as scaling in. Horizontal scaling is a common form of scaling within cloud environments.
+
+##### Vertical Scaling
+Scaling up and scaling down
+ The replacing of an IT resource with another that has a higher capacity is referred to as scaling up and the replacing an IT resource with another that has a lower capacity is considered scaling down. Vertical scaling is less common in cloud environments due to the downtime required while the replacement is taking place.
+
+#### Cloud Service
+It is any IT resource that is made remotely accessible via cloud. The term “service” within the context of cloud computing is especially broad. A cloud service can exist as a simple Web-based software program with a technical interface invoked via the use of a messaging protocol.
+
+#### Cloud Service Consumer
+The cloud service consumer is a temporary runtime role assumed by a software program when it accesses a cloud service.
+
+
 ### 2.4 Goals and Benefits
 
 ### 2.5 Risks and Challenges
