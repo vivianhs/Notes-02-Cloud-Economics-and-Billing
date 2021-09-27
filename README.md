@@ -21,6 +21,36 @@ Forrester Research
 
 
 ### 2.2 Business Drivers
+ #### Business Drivers
+Before learning the layers of technologies that embody clouds, it is important to learn what led to their creation. Many of these business drivers are present in this section. 
+It is important to know that these influences shaped clouds and the overall cloud computing from both ends. They have motivated organizations to adopt cloud computing and have motivated other organizations to be providers of cloud environments and cloud technology vendors.
+
+#### Capacity Planning
+It is the process of determining and fulfilling future demands of an organization’s IT resources, products and services. 
+It represents the maximum amount of work that an IT resource is capable of delivering in a given period of time. Not knowing the capacity of an IT resource can cause a system becoming inefficient (over-provisioning) or unable to fulfill user needs (under-provisioning). 
+Capacity planning is focused on minimizing the discrepancy to achieve predictable efficiency and performance.
+Capacity planning strategies :
+-Lead Strategy: adding capacity to an IT resource in anticipation of demand.
+-Lag Strategy: adding capacity when the IT resource reaches its full capacity.
+-Match Strategy: adding IT resource capacity in small increments, as demand increases.
+
+
+#### Cost Reduction
+Two costs need to be accounted for: the cost of acquiring new infrastructure, and the cost of its ongoing ownership. Operational overhead represents a considerable share of IT burgers, often exceeding up-in front investment costs.
+
+Common forms of infrastructure-related operating overhead include the following:
+-technical personnel required to keep the environment operational
+-upgrades and patches that introduce additional testing and deployment cycles
+-utility bills and capital expense investments for power and cooling
+-security and access control measures that need to be maintained and enforced to protect infrastructure resources
+-administrative and accounts staff that may be required to keep track of licenses and support arrangements
+
+
+#### Organizational Agility
+Businesses need the ability to adapt and evolve to successfully face change caused by internal and external factors. 
+ “Organizational agility is the measure of an organization's responsiveness to change.”
+changing business needs and priorities may require IT resources to be more available and reliable than before. 
+
 
 ### 2.3 Concepts and Terminology
 
