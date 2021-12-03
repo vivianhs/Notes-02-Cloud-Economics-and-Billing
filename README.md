@@ -89,26 +89,59 @@ The cloud service consumer is a temporary runtime role assumed by a software pro
 
 
 ### 2.4 Goals and Benefits
+Cloud providers base their business model on the mass-adquisition of IT resources available to cloud customers. 
 
+Common benefits to cloud consumer include:
+		
+	On demand access to pay-as-you-go
+		
+	Perception of having unlimited computing resources , reducing the need to prepare for provisioning
+		
+	Ability to add or remove IT resourcess at fine-grained level
+		
+	Abstraction of infrastucture so applications are not locked into devices or locations.
+	
+		
 ### 2.5 Risks and Challenges
 
-### 2.6 From Google’s Perspective
+##### Increased Security Vulnerabilities
 
-### 2.7 From Amazon’s Perspective
+it can be difficult to stablish a security architecture that spans such as trust boundary without introducing vulnerabilities
 
-### 2.8 From Dilbert’s Perspective
+##### Reduce Operational Governance Control
 
-### 2.10 Infrastructure as a Service (IaaS)
+ Reduced level of governance control can introduce risks associated with how the cloud provider operates its cloud
 
-### 2.11 Platform as a Service (PaaS)
+##### Limited Portability Between Cloud Providers
 
-### 2.12 Software as a Service (SaaS)
+The lack of established industry standars within the cloud computing industry, public clouds are commonly propietary to various extents. It can be challenging to move from one cloud provider to another.
 
-### 2.14 Cloud Computing Deployment Models
+##### Multi-Regional Regulatory and Legal Issues
+
+Some countries require different government regulations that specify different policies.
 
 
+### Infrastructure as a Service (IaaS)
+
+Is an instant computing infrastructure, provisioned and managed over the internet.
+
+It helps avoid the expense anc complexity of buying and managing ohysucak servers and other datacenter infrastructure. 
+
+##### Advantages of IAAS
+
+Eliminates capital expense and reduces ongoing cost
+
+Improves business continuity and disaster recovery
+
+Innovate rapidly
+
+Respond quicker to shifting business conditions
+
+Focus on your core business
+
+Increase stability, reliability, and supportability
  
+Better security
 
-
-
+Gets new apps to users faster
  
